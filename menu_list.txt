@@ -1,0 +1,9 @@
+Name|Price|Branch|Category
+FRIES|3.2|NTU|SIDE
+3PC set meal|9.9|NTU|SETMEAL
+CAJUN FISH|5.6|JP|BURGER
+COLE SLAW|2.7|JE|SIDE
+3PC set meal|10.4|JE|SETMEAL
+chicken nugget|6.9|JP|SIDE
+chicken nugget|6.6|NTU|SIDE
+pepsi|2.1|JE|DRINK
